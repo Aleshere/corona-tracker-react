@@ -7,10 +7,10 @@
 
 > Class component used for app.js (states and .this included)  
 > API querying by means of axios and async/await calls  
-> Ternary operator to decide what to render according to the if statement   
-> Hooks  
-> Material UI framework
-> Chart JS library
+> Ternary operator to decide what to render according to the if statement    
+> Hooks   
+> Material UI framework  
+> Chart JS library  
 
 
 &nbsp;
