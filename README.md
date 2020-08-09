@@ -1,3 +1,38 @@
+# Covid 19 tracker built with React
+*The landing page is a resume' (on chart) about global COVID 19 stats.*  
+*You can click froma  dropdown and select specific Countries, and then you will get a different chart view of that Country*  
+*Everything is fetched via async/await from https://covid19.mathdro.id/api.*  
+
+# What I have learned building this  
+
+> Class component used for app.js (states and .this included)  
+> API querying by means of axios and async/await calls  
+> Ternary operator to decide what to render according to the if statement   
+> Hooks  
+> Material UI framework
+> Chart JS library
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+## About
+
+* Javascript Mastery tutorial on Youtube
+* Project status: working
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+## And here's the usual boring stuff :)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
